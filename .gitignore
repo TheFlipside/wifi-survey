@@ -1,0 +1,4 @@
+**/settings.local.json
+whitelist_ssid.txt
+**/wifi-survey_*.csv
+**/wifi-survey_*.json
