@@ -8,6 +8,10 @@ Designed to run with the smallest possible footprint on Windows: no installs,
 no external dependencies. It uses the built-in `netsh` command and the
 `wlanapi.dll` Windows API.
 
+<p align="center" width="100%">
+  <img src="screenshot.png" alt="Screenshot">
+</p>
+
 ## Requirements
 
 - Windows 10 / 11 with a working WiFi adapter
